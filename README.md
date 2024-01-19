@@ -4,7 +4,7 @@ Quick starter for FastAPI connection with a MongoDB database.
 
 -> First you need to create a database on MongoDB website.
 you'll get the liknk to your new database:
-"mongodb+srv://"user">:"password">@clustertest.egpmhqq.mongodb.netretryWrites=true&w=majority". The "User" and "Password" should be field with the informations you provided at the creation of your database.gi
+"mongodb+srv://"user">:"password">@clustertest.egpmhqq.mongodb.netretryWrites=true&w=majority". The "User" and "Password" should be field with the informations you provided at the creation of your database.
 
 -> Then go to Config/dataBase.py and change the link with your informations
 
